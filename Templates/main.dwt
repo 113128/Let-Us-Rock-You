@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Patua+One');
+body {
+	background: #666666;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+	font-family: 'Fjalla One';
+	background-image: url(../images/image%202%20(3)
+.png);
+	background-repeat: repeat;
+	background-image: url(../images/image%202%20(3)
+.png);
+	background-image: url(../images/image%202%20(3)
+.png);
+	background-image: url(../images/image%202%20(3)
+.png);
+	background-image: url(../images/image%202.png);
+}
+.oneColLiqCtrHdr #container {
+	width: 80%;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: 1px solid #000000;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	background-color: #992B12;
+}
+.oneColLiqCtrHdr #container h1 {
+	font-family:'Patua One';
+}
+.oneColLiqCtrHdr #header {
+	padding: 0 10px 0 20px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
+	background-color: #D18000;
+	font-family: 'Alfa Slab One';
+}
+.oneColLiqCtrHdr #header h1 {
+	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
+	padding: 10px 0; /* using padding instead of margin will allow you to keep the element away from the edges of the div */
+	font-family: "Alfa Slab One";
+	font-weight: bold;
+	font-style: normal;
+	font-size: 40px;
+}
+.oneColLiqCtrHdr #mainContent {
+	padding: 0 20px;
+	background-color: #992B12;
+}
+.oneColLiqCtrHdr #footer {
+	padding: 0 10px;
+	background-color: #992B12;
+} 
+.oneColLiqCtrHdr #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+	text-align: center;
+}
+-->
+</style></head>
+
+<body class="oneColLiqCtrHdr">
+
+<div id="container">
+  <div id="header">
+    <h1><img src="../images/School Logo.png" alt="School Logo" width="98" height="108" align="middle" /><img src="../images/letusrockyou" alt="Let us rock you" width="149" height="122" align="middle" />Puts The Rock Into School</h1>
+    <p><a href="../index.html">Home</a>  <a href="../tickets.html">Tickets</a> <a href="../info.html">Info</a> <a href="../contact.html">Contact</a> <a href="../news.html">News</a></p>
+  <!-- end #header --></div>
+  <div id="mainContent">
+    <!-- TemplateBeginEditable name="pagetitle" --><h1>
+      Welcome to the biggest school presented festival in the UK! </h1>
+    <!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="Pagecontent" -->
+    <p>
+      Here we Expect you to have the best experience of your life while being back at school. Here we 
+      have a huge lineup consisting of musician artists and some of the pupils from the school itself.</p>
+    <h2><img src="../images/Guitar performance photo.jfif" width="310" height="206" alt="Perfromance" /></h2>
+    <!-- TemplateEndEditable -->
+    <!-- end #mainContent --></div>
+  <div id="footer">
+    <p><img src="../images/guitar.png" alt="" width="587" height="121" align="absbottom" /></p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+</body>
+</html>
